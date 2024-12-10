@@ -1,0 +1,7 @@
+opencv-python  # For computer vision tasks
+opencv-contrib-python  # Additional OpenCV modules, including face recognition
+numpy  # For numerical computations
+pandas  # For managing and processing data
+pillow  # For image handling
+streamlit  # For the web app (if applicable)
+tk  # For Tkinter GUI
